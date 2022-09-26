@@ -11,7 +11,7 @@ div {text-align: center;}
 <h1 style="color:blue;"> Hello, Welcome to Our DevOps Project  </h1>
 <h1 style="color:blue;"> Hello, Welcome to Our DevOps Project  </h1>
 <h1 style="color:blue;"> Hello, modification de fichier .jsp !!!!!!!!!!!!!!!!!!!!!</h1>
-<h1 style="color:blue;"> bjrrrrrr!!!!!!!!!! </h1>
+<h1 style="color:blue;"> bjrrrrrr les developpeurs </h1>
 
 <h1 style="color:red;"> bjrrrrrr les gars  </h1>
 <h1 style="color:red;"> bjrrrrrr les devops  </h1>
